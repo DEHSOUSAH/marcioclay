@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ## Olá, meu nome é fILIPE, estudante de rede de computadores ... !
+  ## Olá, meu nome é filipe, estudante de rede de computadores ... !
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
